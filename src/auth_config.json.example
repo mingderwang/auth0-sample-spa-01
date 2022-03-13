@@ -1,0 +1,7 @@
+{
+  "domain": "example-com.auth0.com",
+  "clientId": "viasdfQWzkJwAZJeg6c2bYDWsg",
+  "audience": "",
+  "appOrigin": "http://localhost:3000",
+  "apiOrigin": "http://localhost:3001"
+}
